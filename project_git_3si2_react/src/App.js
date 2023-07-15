@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with rachasiad in 2 hour from home
+          Learn React with rachasiad in 2 hour from home right now 
         </a>
       </header>
     </div>
